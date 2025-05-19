@@ -1,0 +1,1 @@
+var json_spomicikulture_11 = {"type":"FeatureCollection","name":"spomicikulture_11","crs":{"type":"name","properties":{"name":"urn:ogc:def:crs:OGC:1.3:CRS84"}},"features":[{"type":"Feature","properties":{"id":"1","naziv":"Stari most"},"geometry":{"type":"Point","coordinates":[17.81045904144132,43.343942245107293]}}]}
